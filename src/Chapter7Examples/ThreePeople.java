@@ -6,8 +6,13 @@ package Chapter7Examples;
 public class ThreePeople {
 
 	public static void main(String[] args) {
-		//3 people, must introduce themselves, their favorite song, 
-
+		//3 people, must introduce themselves, their favorite song, list of attributes (min 10), Describe itself, favorite hobby. 
+		
+		
+		
+		
+		
+		
 	}
 
 }

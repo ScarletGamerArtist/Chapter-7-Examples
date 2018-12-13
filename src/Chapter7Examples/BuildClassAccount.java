@@ -12,11 +12,11 @@ public class BuildClassAccount {
 		
 		//myacc.setName("Alanna Botscharow");
 	//	youracc.setName("Desmond Adams");
-		myacc.setAddress("93 West Apple Street");
+		myacc.setAddress("31 Rose lane");
 		youracc.setAddress("Ponderosa forest");
 		myacc.setBalance(5, "123"); 
 		youracc.setBalance(2500000, "346");
-		myacc.setPhone("884-6999");
+		myacc.setPhone("834-3299");
 		youracc.setPhone("756-2975");
 		
 		
